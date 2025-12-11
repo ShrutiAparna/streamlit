@@ -1,0 +1,9 @@
+# Existing dependencies
+langchain>=0.1.0
+langchain-ollama>=0.0.1
+langchain-core>=0.1.0
+pathlib2>=2.3.7
+python-dateutil>=2.8.2
+
+# Web UI
+streamlit>=1.29.0
